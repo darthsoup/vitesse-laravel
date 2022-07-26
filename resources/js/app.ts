@@ -1,6 +1,3 @@
-// import './bootstrap'
-// import '../css/app.css'
-
 import '@unocss/reset/tailwind.css'
 import '../css/app.css'
 import 'uno.css'
